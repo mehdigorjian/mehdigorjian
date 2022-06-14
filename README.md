@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mehdigorjian
-- 👀 I’m interested in Software Development && Machine Learning
+- 👀 I’m interested in Software Engineering && Machine Learning
 - 💞️ I’m looking to collaborate on Web Applications
 - 📫 https://www.linkedin.com/in/mehdi-gorjian/
 
