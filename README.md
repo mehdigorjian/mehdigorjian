@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mehdigorjian
-- 👀 I’m interested in Software Engineering && Machine Learning
-- 💞️ I’m looking to collaborate on Web Applications
-- 📫 https://www.linkedin.com/in/mehdi-gorjian/
+- 👀 I’m interested in Software Development && Machine Learning
+- 💞️ I’m looking to collaborate on Developing Computational Geometry (CAD) Systems and Machine Learning.
+- 📫 https://www.linkedin.com/in/mehdi-gorjian
 
 <!---
 mehdigorjian/mehdigorjian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
