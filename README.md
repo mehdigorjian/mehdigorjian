@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mehdigorjian
-- 👀 I’m interested in Software Development && Machine Learning
-- 💞️ I’m looking to collaborate on Developing Computational Geometry (CAD) Systems and Machine Learning.
+- 👀 I’m interested in Software Development & Machine Learning
+- 💞️ I’m looking to collaborate on Developing Computational Geometry (CAD) Systems & Machine Learning.
 - 📫 https://www.linkedin.com/in/mehdi-gorjian
 
 <!---
